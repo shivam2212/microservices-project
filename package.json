@@ -1,0 +1,33 @@
+{
+  "name": "microservices-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "workspaces": [
+    "common",
+    "api-gateway",
+    "auth-service",
+    "user-service",
+    "wallet-service",
+    "transaction-service",
+    "service-charge-service",
+    "queue-service",
+    "cron-service",
+    "dummy-bank-api"
+  ],
+  "private": "true",
+  "dependencies": {
+    "amqplib": "^0.10.7",
+    "dotenv": "^16.5.0",
+    "node-cron": "^3.0.3"
+  },
+  "devDependencies": {
+    "@types/amqplib": "^0.10.7"
+  }
+}

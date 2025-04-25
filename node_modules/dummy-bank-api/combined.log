@@ -1,0 +1,5 @@
+{"level":"info","message":"Dummy bank API running on port 3008","service":"user-service","timestamp":"2025-04-24T22:56:49.455Z"}
+{"level":"info","message":"Dummy bank API running on port 3008","service":"dummy-bank-api","timestamp":"2025-04-24T23:04:49.483Z"}
+{"level":"info","message":"Received transaction: TS4257 for user SP1002 with amount 2000","service":"dummy-bank-api","timestamp":"2025-04-24T23:29:08.640Z"}
+{"level":"info","message":"Transaction TS4257 acknowledged","service":"dummy-bank-api","timestamp":"2025-04-24T23:29:09.690Z"}
+{"level":"info","message":"Dummy bank API running on port 3008","service":"dummy-bank-api","timestamp":"2025-04-25T00:48:48.576Z"}

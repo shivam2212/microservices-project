@@ -1,0 +1,254 @@
+{"level":"info","message":"Cron jobs initialized","service":"cron-service","timestamp":"2025-04-24T23:22:51.336Z"}
+{"level":"info","message":"Cron service running on port 3007","service":"cron-service","timestamp":"2025-04-24T23:22:51.346Z"}
+{"level":"info","message":"Connected to MongoDB: cron_service","service":"cron-service","timestamp":"2025-04-24T23:22:51.578Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:23:00.407Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 154ms","service":"cron-service","timestamp":"2025-04-24T23:23:00.561Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:24:00.862Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 46ms","service":"cron-service","timestamp":"2025-04-24T23:24:00.907Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:25:00.313Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 57ms","service":"cron-service","timestamp":"2025-04-24T23:25:00.370Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:26:00.830Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 31ms","service":"cron-service","timestamp":"2025-04-24T23:26:00.861Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:27:00.331Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 34ms","service":"cron-service","timestamp":"2025-04-24T23:27:00.365Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:28:00.783Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 35ms","service":"cron-service","timestamp":"2025-04-24T23:28:00.817Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:29:00.264Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 29ms","service":"cron-service","timestamp":"2025-04-24T23:29:00.293Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:30:00.741Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 47ms","service":"cron-service","timestamp":"2025-04-24T23:30:00.788Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:31:00.221Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 41ms","service":"cron-service","timestamp":"2025-04-24T23:31:00.262Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:32:00.725Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 27ms","service":"cron-service","timestamp":"2025-04-24T23:32:00.752Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:33:00.166Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 43ms","service":"cron-service","timestamp":"2025-04-24T23:33:00.209Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:34:00.666Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 45ms","service":"cron-service","timestamp":"2025-04-24T23:34:00.711Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:35:00.174Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 41ms","service":"cron-service","timestamp":"2025-04-24T23:35:00.215Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:36:00.599Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 45ms","service":"cron-service","timestamp":"2025-04-24T23:36:00.644Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:37:00.077Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 37ms","service":"cron-service","timestamp":"2025-04-24T23:37:00.113Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:38:00.551Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 30ms","service":"cron-service","timestamp":"2025-04-24T23:38:00.581Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:39:00.987Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 43ms","service":"cron-service","timestamp":"2025-04-24T23:39:01.030Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:40:00.476Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 38ms","service":"cron-service","timestamp":"2025-04-24T23:40:00.514Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:41:00.996Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 50ms","service":"cron-service","timestamp":"2025-04-24T23:41:01.046Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:42:00.547Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 162ms","service":"cron-service","timestamp":"2025-04-24T23:42:00.709Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:43:00.991Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 43ms","service":"cron-service","timestamp":"2025-04-24T23:43:01.034Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:44:00.433Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 33ms","service":"cron-service","timestamp":"2025-04-24T23:44:00.466Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:45:00.915Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 37ms","service":"cron-service","timestamp":"2025-04-24T23:45:00.952Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:46:00.341Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 43ms","service":"cron-service","timestamp":"2025-04-24T23:46:00.383Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:47:00.799Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 33ms","service":"cron-service","timestamp":"2025-04-24T23:47:00.832Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:48:00.237Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 49ms","service":"cron-service","timestamp":"2025-04-24T23:48:00.286Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:49:00.683Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 36ms","service":"cron-service","timestamp":"2025-04-24T23:49:00.719Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:50:00.171Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 28ms","service":"cron-service","timestamp":"2025-04-24T23:50:00.198Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:51:00.619Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 39ms","service":"cron-service","timestamp":"2025-04-24T23:51:00.658Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:52:00.050Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 22ms","service":"cron-service","timestamp":"2025-04-24T23:52:00.072Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:53:00.509Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 98ms","service":"cron-service","timestamp":"2025-04-24T23:53:00.607Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:54:00.045Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 29ms","service":"cron-service","timestamp":"2025-04-24T23:54:00.074Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:55:00.512Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 40ms","service":"cron-service","timestamp":"2025-04-24T23:55:00.552Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:56:00.872Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 5585ms","service":"cron-service","timestamp":"2025-04-24T23:56:06.457Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:57:00.040Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 63ms","service":"cron-service","timestamp":"2025-04-24T23:57:00.103Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:58:00.701Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 67ms","service":"cron-service","timestamp":"2025-04-24T23:58:00.768Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-24T23:59:00.188Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 48ms","service":"cron-service","timestamp":"2025-04-24T23:59:00.236Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:00:00.615Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 47ms","service":"cron-service","timestamp":"2025-04-25T00:00:00.662Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:01:00.001Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 41ms","service":"cron-service","timestamp":"2025-04-25T00:01:00.042Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:02:00.569Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 117ms","service":"cron-service","timestamp":"2025-04-25T00:02:00.686Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:03:00.065Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 59ms","service":"cron-service","timestamp":"2025-04-25T00:03:00.124Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:04:00.569Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 35ms","service":"cron-service","timestamp":"2025-04-25T00:04:00.604Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:05:00.007Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 45ms","service":"cron-service","timestamp":"2025-04-25T00:05:00.052Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:06:00.454Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 33ms","service":"cron-service","timestamp":"2025-04-25T00:06:00.487Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:07:00.886Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 31ms","service":"cron-service","timestamp":"2025-04-25T00:07:00.917Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:08:00.278Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 39ms","service":"cron-service","timestamp":"2025-04-25T00:08:00.317Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:09:00.759Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 43ms","service":"cron-service","timestamp":"2025-04-25T00:09:00.802Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:10:00.187Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 27ms","service":"cron-service","timestamp":"2025-04-25T00:10:00.214Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:11:00.679Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 37ms","service":"cron-service","timestamp":"2025-04-25T00:11:00.716Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:12:00.034Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 30ms","service":"cron-service","timestamp":"2025-04-25T00:12:00.064Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:13:00.470Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 33ms","service":"cron-service","timestamp":"2025-04-25T00:13:00.503Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:14:00.922Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 25ms","service":"cron-service","timestamp":"2025-04-25T00:14:00.947Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:15:00.373Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 40ms","service":"cron-service","timestamp":"2025-04-25T00:15:00.413Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:16:00.782Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 28ms","service":"cron-service","timestamp":"2025-04-25T00:16:00.810Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:17:00.276Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 31ms","service":"cron-service","timestamp":"2025-04-25T00:17:00.307Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:18:00.693Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 25ms","service":"cron-service","timestamp":"2025-04-25T00:18:00.718Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:19:00.090Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 35ms","service":"cron-service","timestamp":"2025-04-25T00:19:00.125Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:20:00.474Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 23ms","service":"cron-service","timestamp":"2025-04-25T00:20:00.497Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:21:00.916Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 38ms","service":"cron-service","timestamp":"2025-04-25T00:21:00.954Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:22:00.299Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 22ms","service":"cron-service","timestamp":"2025-04-25T00:22:00.321Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:23:00.714Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 22ms","service":"cron-service","timestamp":"2025-04-25T00:23:00.736Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:24:00.999Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 26ms","service":"cron-service","timestamp":"2025-04-25T00:24:01.025Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:25:00.443Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 22ms","service":"cron-service","timestamp":"2025-04-25T00:25:00.465Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:26:00.846Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 35ms","service":"cron-service","timestamp":"2025-04-25T00:26:00.881Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:27:00.276Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 68ms","service":"cron-service","timestamp":"2025-04-25T00:27:00.344Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:28:01.045Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 531ms","service":"cron-service","timestamp":"2025-04-25T00:28:01.513Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:29:00.865Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 43ms","service":"cron-service","timestamp":"2025-04-25T00:29:00.908Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:30:00.321Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 70ms","service":"cron-service","timestamp":"2025-04-25T00:30:00.391Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:31:00.167Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 262ms","service":"cron-service","timestamp":"2025-04-25T00:31:00.423Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:32:00.801Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 156ms","service":"cron-service","timestamp":"2025-04-25T00:32:00.957Z"}
+{"level":"info","message":"Cron jobs initialized","service":"cron-service","timestamp":"2025-04-25T00:48:55.080Z"}
+{"level":"info","message":"Cron service running on port 3007","service":"cron-service","timestamp":"2025-04-25T00:48:55.111Z"}
+{"level":"info","message":"Connected to MongoDB: cron_service","service":"cron-service","timestamp":"2025-04-25T00:48:55.181Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:49:00.125Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 131ms","service":"cron-service","timestamp":"2025-04-25T00:49:00.256Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:50:00.644Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 137ms","service":"cron-service","timestamp":"2025-04-25T00:50:00.781Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:51:00.220Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 1276ms","service":"cron-service","timestamp":"2025-04-25T00:51:01.496Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:53:00.533Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 87ms","service":"cron-service","timestamp":"2025-04-25T00:53:00.619Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:54:00.024Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 44ms","service":"cron-service","timestamp":"2025-04-25T00:54:00.067Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:55:00.542Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 65ms","service":"cron-service","timestamp":"2025-04-25T00:55:00.606Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:56:00.031Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 38ms","service":"cron-service","timestamp":"2025-04-25T00:56:00.069Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:57:00.580Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 61ms","service":"cron-service","timestamp":"2025-04-25T00:57:00.641Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:58:00.104Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 634ms","service":"cron-service","timestamp":"2025-04-25T00:58:00.738Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T00:59:00.852Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 72ms","service":"cron-service","timestamp":"2025-04-25T00:59:00.924Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:00:00.333Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 58ms","service":"cron-service","timestamp":"2025-04-25T01:00:00.390Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:01:00.840Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 34ms","service":"cron-service","timestamp":"2025-04-25T01:01:00.874Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:02:00.347Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 44ms","service":"cron-service","timestamp":"2025-04-25T01:02:00.391Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:03:00.828Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 60ms","service":"cron-service","timestamp":"2025-04-25T01:03:00.889Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:04:00.221Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 32ms","service":"cron-service","timestamp":"2025-04-25T01:04:00.253Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:05:00.703Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 38ms","service":"cron-service","timestamp":"2025-04-25T01:05:00.741Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:06:00.195Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 36ms","service":"cron-service","timestamp":"2025-04-25T01:06:00.231Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:07:00.711Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 53ms","service":"cron-service","timestamp":"2025-04-25T01:07:00.763Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:08:00.266Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 52ms","service":"cron-service","timestamp":"2025-04-25T01:08:00.318Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:09:00.788Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 66ms","service":"cron-service","timestamp":"2025-04-25T01:09:00.854Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:10:00.327Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 54ms","service":"cron-service","timestamp":"2025-04-25T01:10:00.381Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:11:00.770Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 16ms","service":"cron-service","timestamp":"2025-04-25T01:11:00.786Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:12:00.256Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 39ms","service":"cron-service","timestamp":"2025-04-25T01:12:00.295Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:13:00.808Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 18ms","service":"cron-service","timestamp":"2025-04-25T01:13:00.826Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:14:00.354Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 25ms","service":"cron-service","timestamp":"2025-04-25T01:14:00.379Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:15:00.983Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 49ms","service":"cron-service","timestamp":"2025-04-25T01:15:01.032Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:16:00.472Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 18ms","service":"cron-service","timestamp":"2025-04-25T01:16:00.490Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:18:00.519Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 65ms","service":"cron-service","timestamp":"2025-04-25T01:18:00.584Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:19:00.054Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 35ms","service":"cron-service","timestamp":"2025-04-25T01:19:00.089Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:20:00.517Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 47ms","service":"cron-service","timestamp":"2025-04-25T01:20:00.564Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:21:00.082Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 18ms","service":"cron-service","timestamp":"2025-04-25T01:21:00.099Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:22:00.645Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 28ms","service":"cron-service","timestamp":"2025-04-25T01:22:00.673Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:23:00.143Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 46ms","service":"cron-service","timestamp":"2025-04-25T01:23:00.189Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:24:00.720Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 37ms","service":"cron-service","timestamp":"2025-04-25T01:24:00.757Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:25:00.267Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 39ms","service":"cron-service","timestamp":"2025-04-25T01:25:00.306Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:26:00.811Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 150ms","service":"cron-service","timestamp":"2025-04-25T01:26:00.956Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:27:00.336Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 32ms","service":"cron-service","timestamp":"2025-04-25T01:27:00.367Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:28:00.860Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 37ms","service":"cron-service","timestamp":"2025-04-25T01:28:00.898Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:29:00.357Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 23ms","service":"cron-service","timestamp":"2025-04-25T01:29:00.380Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:30:00.875Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 33ms","service":"cron-service","timestamp":"2025-04-25T01:30:00.908Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:31:00.399Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 50ms","service":"cron-service","timestamp":"2025-04-25T01:31:00.447Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:32:00.980Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 49ms","service":"cron-service","timestamp":"2025-04-25T01:32:01.029Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:33:00.536Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 29ms","service":"cron-service","timestamp":"2025-04-25T01:33:00.565Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:34:00.068Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 19ms","service":"cron-service","timestamp":"2025-04-25T01:34:00.087Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:35:00.518Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 29ms","service":"cron-service","timestamp":"2025-04-25T01:35:00.547Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:36:00.109Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 48ms","service":"cron-service","timestamp":"2025-04-25T01:36:00.156Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:37:00.630Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 79ms","service":"cron-service","timestamp":"2025-04-25T01:37:00.709Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:38:00.193Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 31ms","service":"cron-service","timestamp":"2025-04-25T01:38:00.224Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:39:00.691Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 23ms","service":"cron-service","timestamp":"2025-04-25T01:39:00.715Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:40:00.191Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 37ms","service":"cron-service","timestamp":"2025-04-25T01:40:00.228Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:41:00.716Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 30ms","service":"cron-service","timestamp":"2025-04-25T01:41:00.745Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:42:00.188Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 45ms","service":"cron-service","timestamp":"2025-04-25T01:42:00.233Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:43:00.712Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 35ms","service":"cron-service","timestamp":"2025-04-25T01:43:00.747Z"}
+{"level":"info","message":"Running cron job: updateAwaitedTransactions","service":"cron-service","timestamp":"2025-04-25T01:44:00.219Z"}
+{"level":"info","message":"Updated 0 transactions to \"success\" status in 27ms","service":"cron-service","timestamp":"2025-04-25T01:44:00.246Z"}

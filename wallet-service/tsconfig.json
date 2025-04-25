@@ -1,0 +1,9 @@
+{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "outDir": "dist",
+    "rootDir": "../../microservices-project"
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "dist"]
+}
