@@ -1,0 +1,180 @@
+version: '3.8'
+
+services:
+  mongo:
+    image: mongo:6.0
+    container_name: mongo
+    restart: always
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+
+  api-gateway:
+    build:
+      context: ./api-gateway
+      dockerfile: Dockerfile
+    container_name: api-gateway
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env
+    depends_on:
+      - auth-service
+      - user-service
+      - wallet-service
+      - service-charge-service
+      - transaction-service
+      - queue-service
+      - cron-service
+      - dummy-bank-api
+    command: npm run dev
+    volumes:
+      - ./api-gateway:/usr/src/app
+      - ./common:/usr/src/common
+    environment:
+      - NODE_ENV=development
+
+  auth-service:
+    build:
+      context: ./auth-service
+      dockerfile: Dockerfile
+    container_name: auth-service
+    ports:
+      - "3001:3001"
+    env_file:
+      - .env
+    depends_on:
+      - mongo
+    command: npm run dev
+    volumes:
+      - ./auth-service:/usr/src/app
+      - ./common:/usr/src/common
+    environment:
+      - NODE_ENV=development
+
+  user-service:
+    build:
+      context: ./user-service
+      dockerfile: Dockerfile
+    container_name: user-service
+    ports:
+      - "3002:3002"
+    env_file:
+      - .env
+    depends_on:
+      - mongo
+    command: npm run dev
+    volumes:
+      - ./user-service:/usr/src/app
+      - ./common:/usr/src/common
+    environment:
+      - NODE_ENV=development
+
+  wallet-service:
+    build:
+      context: ./wallet-service
+      dockerfile: Dockerfile
+    container_name: wallet-service
+    ports:
+      - "3003:3003"
+    env_file:
+      - .env
+    depends_on:
+      - mongo
+    command: npm run dev
+    volumes:
+      - ./wallet-service:/usr/src/app
+      - ./common:/usr/src/common
+    environment:
+      - NODE_ENV=development
+
+  service-charge-service:
+    build:
+      context: ./service-charge-service
+      dockerfile: Dockerfile
+    container_name: service-charge-service
+    ports:
+      - "3004:3004"
+    env_file:
+      - .env
+    depends_on:
+      - mongo
+    command: npm run dev
+    volumes:
+      - ./service-charge-service:/usr/src/app
+      - ./common:/usr/src/common
+    environment:
+      - NODE_ENV=development
+
+  transaction-service:
+    build:
+      context: ./transaction-service
+      dockerfile: Dockerfile
+    container_name: transaction-service
+    ports:
+      - "3005:3005"
+    env_file:
+      - .env
+    depends_on:
+      - mongo
+    command: npm run dev
+    volumes:
+      - ./transaction-service:/usr/src/app
+      - ./common:/usr/src/common
+    environment:
+      - NODE_ENV=development
+
+  queue-service:
+    build:
+      context: ./queue-service
+      dockerfile: Dockerfile
+    container_name: queue-service
+    ports:
+      - "3006:3006"
+    env_file:
+      - .env
+    depends_on:
+      - mongo
+    command: npm run dev
+    volumes:
+      - ./queue-service:/usr/src/app
+      - ./common:/usr/src/common
+    environment:
+      - NODE_ENV=development
+
+  cron-service:
+    build:
+      context: ./cron-service
+      dockerfile: Dockerfile
+    container_name: cron-service
+    ports:
+      - "3007:3007"
+    env_file:
+      - .env
+    depends_on:
+      - mongo
+    command: npm run dev
+    volumes:
+      - ./cron-service:/usr/src/app
+      - ./common:/usr/src/common
+    environment:
+      - NODE_ENV=development
+
+  dummy-bank-api:
+    build:
+      context: ./dummy-bank-api
+      dockerfile: Dockerfile
+    container_name: dummy-bank-api
+    ports:
+      - "3008:3008"
+    env_file:
+      - .env
+    command: npm run dev
+    volumes:
+      - ./dummy-bank-api:/usr/src/app
+    environment:
+      - NODE_ENV=development
+
+volumes:
+  mongo-data:
