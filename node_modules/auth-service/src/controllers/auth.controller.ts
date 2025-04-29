@@ -20,7 +20,7 @@ export const login = async (req: Request, res: Response, next: NextFunction) => 
     
     const isPasswordValid = await bcrypt.compare(password, admin.password);
     if (!isPasswordValid) {
-      throw new AuthenticationError('Invalid credentials');
+      throw new AuthenticationError('Invalid credentials from user');
     }
     
     const token = generateToken({ id: admin._id?.toString() || '', role: admin.role });
